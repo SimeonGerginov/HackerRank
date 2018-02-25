@@ -14,7 +14,6 @@ namespace GradingStudents
             for (int i = 0; i < N; i++)
             {
                 int currentGrade = grades[i];
-                int nextMultipleOfFive = currentGrade + (5 - (currentGrade % 5));
 
                 if(currentGrade % 5 < DIFFERENCE_NUMBER || currentGrade < FAILING_GRADE)
                 {
@@ -22,7 +21,7 @@ namespace GradingStudents
                 }
                 else
                 {
-                    newGrades[i] = nextMultipleOfFive;
+                    newGrades[i] = currentGrade + (5 - (currentGrade % 5)); ;
                 }
             }
 
