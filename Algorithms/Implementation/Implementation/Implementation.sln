@@ -45,6 +45,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPDFViewer", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{FBFAAC3A-4D61-490C-8623-C9768856D163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{802B1499-6054-4054-8CE8-32377D0FE7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulDaysAtTheMovies", "BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies.csproj", "{F51C2E11-325F-4ADF-8C77-AF105979B806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "ViralAdvertising\ViralAdvertising.csproj", "{A1DEAA29-6263-48A6-A3EB-38752A255DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveThePrisoner!", "SaveThePrisoner!\SaveThePrisoner!.csproj", "{6FA2177A-AB48-4D64-AC8C-16977D791A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularArrayRotation", "CircularArrayRotation\CircularArrayRotation.csproj", "{D7A33B5D-3546-45AF-9020-BD718B81649F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +145,26 @@ Global
 		{FBFAAC3A-4D61-490C-8623-C9768856D163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBFAAC3A-4D61-490C-8623-C9768856D163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBFAAC3A-4D61-490C-8623-C9768856D163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802B1499-6054-4054-8CE8-32377D0FE7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802B1499-6054-4054-8CE8-32377D0FE7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802B1499-6054-4054-8CE8-32377D0FE7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802B1499-6054-4054-8CE8-32377D0FE7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51C2E11-325F-4ADF-8C77-AF105979B806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51C2E11-325F-4ADF-8C77-AF105979B806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51C2E11-325F-4ADF-8C77-AF105979B806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51C2E11-325F-4ADF-8C77-AF105979B806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DEAA29-6263-48A6-A3EB-38752A255DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DEAA29-6263-48A6-A3EB-38752A255DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DEAA29-6263-48A6-A3EB-38752A255DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DEAA29-6263-48A6-A3EB-38752A255DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA2177A-AB48-4D64-AC8C-16977D791A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA2177A-AB48-4D64-AC8C-16977D791A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA2177A-AB48-4D64-AC8C-16977D791A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA2177A-AB48-4D64-AC8C-16977D791A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A33B5D-3546-45AF-9020-BD718B81649F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A33B5D-3546-45AF-9020-BD718B81649F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A33B5D-3546-45AF-9020-BD718B81649F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A33B5D-3546-45AF-9020-BD718B81649F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
