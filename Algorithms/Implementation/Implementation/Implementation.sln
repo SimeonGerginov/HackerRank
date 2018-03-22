@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFine", "LibraryFine\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{68DDAEA0-023B-43BB-8E4D-8E84C034DF75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonDivisibleSubset", "NonDivisibleSubset\NonDivisibleSubset.csproj", "{87C3093E-6DBE-4DD5-BCFB-14DC7B4C2069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{D5B6C6B5-E193-4779-AC26-D1A70A7E2DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{68DDAEA0-023B-43BB-8E4D-8E84C034DF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68DDAEA0-023B-43BB-8E4D-8E84C034DF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68DDAEA0-023B-43BB-8E4D-8E84C034DF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C3093E-6DBE-4DD5-BCFB-14DC7B4C2069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C3093E-6DBE-4DD5-BCFB-14DC7B4C2069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C3093E-6DBE-4DD5-BCFB-14DC7B4C2069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C3093E-6DBE-4DD5-BCFB-14DC7B4C2069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B6C6B5-E193-4779-AC26-D1A70A7E2DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B6C6B5-E193-4779-AC26-D1A70A7E2DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B6C6B5-E193-4779-AC26-D1A70A7E2DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B6C6B5-E193-4779-AC26-D1A70A7E2DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
