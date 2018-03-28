@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeTheArray", "Equaliz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen'sAttackII", "Queen'sAttackII\Queen'sAttackII.csproj", "{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMICPCTeam", "ACMICPCTeam\ACMICPCTeam.csproj", "{6039521D-8353-41E9-AA63-D59A73CC3D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaumAndB'day", "TaumAndB'day\TaumAndB'day.csproj", "{2BE98E20-F223-4D8E-9342-2079CA428FB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +247,14 @@ Global
 		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6039521D-8353-41E9-AA63-D59A73CC3D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6039521D-8353-41E9-AA63-D59A73CC3D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6039521D-8353-41E9-AA63-D59A73CC3D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6039521D-8353-41E9-AA63-D59A73CC3D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
