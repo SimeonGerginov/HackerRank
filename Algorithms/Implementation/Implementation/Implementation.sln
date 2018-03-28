@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "Jumpi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeTheArray", "EqualizeTheArray\EqualizeTheArray.csproj", "{A755FB0C-D797-4CA6-867A-D9DE657ADC62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen'sAttackII", "Queen'sAttackII\Queen'sAttackII.csproj", "{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{A755FB0C-D797-4CA6-867A-D9DE657ADC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A755FB0C-D797-4CA6-867A-D9DE657ADC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A755FB0C-D797-4CA6-867A-D9DE657ADC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD05952E-7049-4BE5-B6A7-C526C9DB24CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
