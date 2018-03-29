@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMICPCTeam", "ACMICPCTeam\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaumAndB'day", "TaumAndB'day\TaumAndB'day.csproj", "{2BE98E20-F223-4D8E-9342-2079CA428FB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizingContainersOfBalls", "OrganizingContainersOfBalls\OrganizingContainersOfBalls.csproj", "{7CDC30C8-44F5-4C35-891B-3C1A7C7255BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{4F395A6B-59EF-4B93-9606-E612B7747D82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +259,14 @@ Global
 		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BE98E20-F223-4D8E-9342-2079CA428FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDC30C8-44F5-4C35-891B-3C1A7C7255BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDC30C8-44F5-4C35-891B-3C1A7C7255BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDC30C8-44F5-4C35-891B-3C1A7C7255BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDC30C8-44F5-4C35-891B-3C1A7C7255BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F395A6B-59EF-4B93-9606-E612B7747D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F395A6B-59EF-4B93-9606-E612B7747D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F395A6B-59EF-4B93-9606-E612B7747D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F395A6B-59EF-4B93-9606-E612B7747D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
