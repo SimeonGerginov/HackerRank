@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "Chocolate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\ServiceLane.csproj", "{F417795D-2615-4B42-8044-6596ED326C2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisa'sWorkbook", "Lisa'sWorkbook\Lisa'sWorkbook.csproj", "{9F523C73-A6B0-4520-9878-53005F45F5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatlandSpaceStations", "FlatlandSpaceStations\FlatlandSpaceStations.csproj", "{2374E0DF-48DD-49F2-AB26-E486CF259678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +319,14 @@ Global
 		{F417795D-2615-4B42-8044-6596ED326C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F417795D-2615-4B42-8044-6596ED326C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F417795D-2615-4B42-8044-6596ED326C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F523C73-A6B0-4520-9878-53005F45F5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F523C73-A6B0-4520-9878-53005F45F5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F523C73-A6B0-4520-9878-53005F45F5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F523C73-A6B0-4520-9878-53005F45F5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2374E0DF-48DD-49F2-AB26-E486CF259678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2374E0DF-48DD-49F2-AB26-E486CF259678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2374E0DF-48DD-49F2-AB26-E486CF259678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2374E0DF-48DD-49F2-AB26-E486CF259678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
