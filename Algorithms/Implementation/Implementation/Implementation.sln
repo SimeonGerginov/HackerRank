@@ -121,6 +121,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLadybugs", "HappyLadyb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrangeCounter", "StrangeCounter\StrangeCounter.csproj", "{18CBE178-F860-4596-97FC-34B085538166}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsolutePermutation", "AbsolutePermutation\AbsolutePermutation.csproj", "{6CFAC53E-0A39-4897-BA5C-F9D458679D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBombermanGame", "TheBombermanGame\TheBombermanGame.csproj", "{12080D7F-EF14-4611-800D-D7886357A707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +367,14 @@ Global
 		{18CBE178-F860-4596-97FC-34B085538166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18CBE178-F860-4596-97FC-34B085538166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18CBE178-F860-4596-97FC-34B085538166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFAC53E-0A39-4897-BA5C-F9D458679D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFAC53E-0A39-4897-BA5C-F9D458679D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFAC53E-0A39-4897-BA5C-F9D458679D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFAC53E-0A39-4897-BA5C-F9D458679D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12080D7F-EF14-4611-800D-D7886357A707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12080D7F-EF14-4611-800D-D7886357A707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12080D7F-EF14-4611-800D-D7886357A707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12080D7F-EF14-4611-800D-D7886357A707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
