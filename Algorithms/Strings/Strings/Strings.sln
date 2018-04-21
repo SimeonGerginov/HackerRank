@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankInAString!", "Hac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemstones", "Gemstones\Gemstones.csproj", "{30F6FFA4-D7D8-43AA-8D75-732D03828AA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingAnagrams", "MakingAnagrams\MakingAnagrams.csproj", "{3A6552A0-F37D-4151-BA07-71D7532B09D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Anagram\Anagram.csproj", "{2364E89A-A946-45C4-9E5C-1556D33B0247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{30F6FFA4-D7D8-43AA-8D75-732D03828AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F6FFA4-D7D8-43AA-8D75-732D03828AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F6FFA4-D7D8-43AA-8D75-732D03828AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6552A0-F37D-4151-BA07-71D7532B09D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6552A0-F37D-4151-BA07-71D7532B09D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6552A0-F37D-4151-BA07-71D7532B09D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6552A0-F37D-4151-BA07-71D7532B09D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2364E89A-A946-45C4-9E5C-1556D33B0247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2364E89A-A946-45C4-9E5C-1556D33B0247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2364E89A-A946-45C4-9E5C-1556D33B0247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2364E89A-A946-45C4-9E5C-1556D33B0247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
