@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcsCakewalk", "MarcsCakewalk\MarcsCakewalk.csproj", "{FEACB308-5D94-4A43-9DD0-D5DCB59E782C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutingTwoArrays", "PermutingTwoArrays\PermutingTwoArrays.csproj", "{9FC44A25-C4C5-4EA0-AE36-458B0D82F013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkAndToys", "MarkAndToys\MarkAndToys.csproj", "{1FFE48A1-DDE4-44B1-9525-253D98078D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEACB308-5D94-4A43-9DD0-D5DCB59E782C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEACB308-5D94-4A43-9DD0-D5DCB59E782C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEACB308-5D94-4A43-9DD0-D5DCB59E782C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEACB308-5D94-4A43-9DD0-D5DCB59E782C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC44A25-C4C5-4EA0-AE36-458B0D82F013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC44A25-C4C5-4EA0-AE36-458B0D82F013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC44A25-C4C5-4EA0-AE36-458B0D82F013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC44A25-C4C5-4EA0-AE36-458B0D82F013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFE48A1-DDE4-44B1-9525-253D98078D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFE48A1-DDE4-44B1-9525-253D98078D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFE48A1-DDE4-44B1-9525-253D98078D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFE48A1-DDE4-44B1-9525-253D98078D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
